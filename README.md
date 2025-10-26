@@ -459,14 +459,10 @@ python ds_ckpt_to_pt.py --ds_dir ... --tag step50000
 If you use this code for audio self-supervised learning, please consider citing the JEPA paper:
 
 ```bibtex
-@misc{ioannides2024densityadaptiveattentionneed,
-      title={Density Adaptive Attention is All You Need: Robust Parameter-Efficient Fine-Tuning Across Multiple Modalities}, 
-      author={Georgios Ioannides and Aman Chadha and Aaron Elkins},
-      year={2024},
-      eprint={2401.11143},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2401.11143}, 
+@misc{ioannides2025jepadensityadaptiveattention,
+      title={JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention}, 
+      author={Georgios Ioannides and Christos Constantinou and Aman Chadha and Aaron Elkins and Linsey Pang and Ravid Schwartz Ziv},
+      year={2025}
 }
 ```
 
