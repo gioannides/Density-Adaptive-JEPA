@@ -470,6 +470,4 @@ If you use this code for audio self-supervised learning, please consider citing 
 }
 ```
 
-Apache 2.0 (inherits from DeepSpeed)
-
 **Last Updated**: October 2025
