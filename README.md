@@ -461,7 +461,7 @@ If you use this code for audio self-supervised learning, please consider citing 
 ```bibtex
 @misc{ioannides2025jepadensityadaptiveattention,
       title={JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention}, 
-      author={Georgios Ioannides and Christos Constantinou and Aman Chadha and Aaron Elkins and Linsey Pang and Ravid Schwartz Ziv},
+      author={Georgios Ioannides and Christos Constantinou and Aman Chadha and Aaron Elkins and Linsey Pang and Ravid Schwartz Ziv and Yann LeCun},
       year={2025},
       url={https://github.com/gioannides/Density-Adaptive-JEPA}
 }
